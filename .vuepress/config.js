@@ -1,6 +1,7 @@
 module.exports = {
   title: "Wzx’s Blog",
   description: 'A simple a blog.',
+  base:'Wzx-s-Blog',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -79,7 +80,7 @@ module.exports = {
      */
 
     // keyPage: {
-    //   keys: ['your password'],
+    //   keys: ['12345'],
     //   color: '#42b983',
     //   lineColor: '#42b983'
     // },
