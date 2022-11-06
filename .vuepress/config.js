@@ -1,7 +1,7 @@
 module.exports = {
   title: "Wzx’s Blog",
   description: 'A simple a blog.',
-  base:'/wzx-s-blog/',
+  base:'/wzxblog/',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
