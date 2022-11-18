@@ -2,6 +2,8 @@ module.exports = {
   title: "Wzx’s Blog",
   description: 'A simple a blog.',
   base:'/wzxblog/',
+  //修改静态文件保存路径
+  dest:'docs/dist',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
